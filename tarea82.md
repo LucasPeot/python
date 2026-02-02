@@ -2,3 +2,6 @@
 
 for numElefantes in range(6):
 	print(numElefantes, ' elefantes se balanceaban sobre la tela... ')
+
+
+adsada
